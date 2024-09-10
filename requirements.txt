@@ -1,2 +1,9 @@
-streamlit
-openai
+streamlit==1.38.0
+openai==1.43.0
+google-cloud-storage
+google-cloud-bigquery
+google-auth
+google-auth-oauthlib
+langchain_openai
+langchain
+pydantic
